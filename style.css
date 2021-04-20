@@ -1,3 +1,6 @@
+body{
+    font-family: 'Courgette', cursive;;
+}
 .top-menu{
     font-size: 25px;
     color: black;
@@ -14,7 +17,42 @@
 .top-menu a{
     text-decoration: none;
     color: black;
-}
-.font-menu{
     font-family: 'Play', sans-serif;
+}
+#my-world{
+    color: blueviolet;
+}
+#my-name{
+    color: coral;
+}
+#welcome{
+    font-size: 40px;
+}
+#intro-name{
+    font-size: 30px;
+}
+.introduction{
+    width: 40%;
+    float: left;
+    padding-left: 6%;
+    padding-top: 5%;
+    text-align: justify;
+}
+.top-image{
+    width: 100%;
+}
+.hire{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #e21fb1, #ffaa0d);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: palegoldenrod;
+    line-height: 4;
+}
+#teenage-boy{
+    width: 100%;
+}
+#about{
+    font-size: 30px;
 }
